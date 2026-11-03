@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "waesre.aternos.me",
+    "ip": "waesre.aternos.me:12516",
     "port": 12516,
     "version": "1.21.1"
   },
